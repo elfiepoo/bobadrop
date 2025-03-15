@@ -1,0 +1,10 @@
+img {
+    width: 200px;
+}
+body {
+    text-align: center;
+    font-family:'Arial';
+    background: DarkSlateGrey;
+    color: white;
+}
+button { background-color: #6a7e8b; border: none; color: white; padding: 20px 34px; text-align: center; text-decoration: none; display: inline-block; font-size: 20px; margin: 4px 2px; cursor: pointer; }
